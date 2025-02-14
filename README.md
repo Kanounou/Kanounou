@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @Kanounou
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Bonjour, moi c'est Kanoute  
 
-<!---
-Kanounou/Kanounou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Étudiante en 2e année à l'ECE Paris, passionnée par le Développement web et la création d’applications modernes.  
+Je suis actuellement en apprentissage et je cherche une Alternance en développement web à partir de septembre 2025.  
+
+---
+
+## 💻 Compétences techniques  
+### 🌐 Développement web  
+- Frontend : HTML | CSS | JavaScript | React.js  
+- Backend : Node.js | Express.js | PHP  
+- Bases de données : MySQL | MongoDB  
+- Sécurité : Notions en protection des applications web (OWASP, Authentification JWT)  
+
+### Outils & Environnements  
+- Versioning & Collaboration : Git | GitHub  
+- IDE & Développement : VS Code | Postman | Figma  
+
+---
+
+## 📚 En ce moment, j’apprends ...  
+ JavaScript avancé (ES6+, Promises, Async/Await)  
+ React.js et ses outils (Redux, React Router)  
+ Développement backend avec Node.js & Express 
+ Bonnes pratiques de sécurité pour les applications web  
+
+---
+
+## 🚀 Mes projets  
+ -Plateforme de gestion scolaire  
+ Une application web permettant aux étudiants et enseignants d'organiser leurs cours et devoirs.  
+
+ -E-commerce médical  
+  🛒 Un site de vente en ligne spécialisé dans les équipements médicaux.  
+
+-Système de gestion de projets  
+  Une plateforme pour aider les équipes à collaborer et suivre l’avancement de leurs tâches.  
+
+---
+
+## 📫 Me contacter  
+LinkedIn : (https://www.linkedin.com/in/coumba-kanout%C3%A9/)
+📧Email : kanoutecoumba00@.com  
+
+---
+
+## 📊 Statistiques GitHub  
+![Statistiques GitHub de Kanounou](https://github-readme-stats.vercel.app/api?username=Kanounou&show_icons=true&theme=dark)
