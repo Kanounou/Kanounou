@@ -1,7 +1,7 @@
 # 👋 Bonjour, moi c'est Kanoute  
 
  Étudiante en 2e année à l'ECE Paris, passionnée par le Développement web et la création d’applications modernes.  
-Je suis actuellement en apprentissage et je cherche une Alternance en développement web à partir de septembre 2025.  
+Je suis actuellement à la recherche une Alternance en développement web à partir de septembre 2025.  
 
 ---
 
