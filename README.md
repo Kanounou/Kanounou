@@ -8,7 +8,7 @@ Je suis actuellement à la recherche une Alternance en développement web à par
 ## 💻 Compétences techniques  
 ### 🌐 Développement web  
 - Frontend : HTML | CSS | JavaScript | React.js  
-- Backend : Node.js | Express.js | PHP  
+- Backend : Node.js | Java | PHP  
 - Bases de données : MySQL | MongoDB  
 - Sécurité : Notions en protection des applications web (OWASP, Authentification JWT)  
 
@@ -40,7 +40,7 @@ Je suis actuellement à la recherche une Alternance en développement web à par
 
 ## 📫 Me contacter  
 LinkedIn : (https://www.linkedin.com/in/coumba-kanout%C3%A9/)
-📧Email : kanoutecoumba00@.com  
+📧Email : kanoutecoumba00@gmail.com  
 
 ---
 
