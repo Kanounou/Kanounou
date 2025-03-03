@@ -8,7 +8,7 @@ Je suis actuellement à la recherche une Alternance en développement web à par
 ## 💻 Compétences techniques  
 ### 🌐 Développement web  
 - Frontend : HTML | CSS | JavaScript | React.js  
-- Backend : Node.js | Java | PHP  
+- Backend : Python | Java | PHP  
 - Bases de données : MySQL | MongoDB  
 - Sécurité : Notions en protection des applications web (OWASP, Authentification JWT)  
 
